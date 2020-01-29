@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1580265259 source:c:\users\administrator\desktop\programiranjeef e\fuzija1\main.cpp
+	<iostream>
+	"fuzija.h"
+	"tacka.h"
+	"pravoug.h"
+
+1580265259 c:\users\administrator\desktop\programiranjeef e\fuzija1\fuzija.h
+
+1580262999 c:\users\administrator\desktop\programiranjeef e\fuzija1\tacka.h
+	<iostream>
+
+1580263531 c:\users\administrator\desktop\programiranjeef e\fuzija1\pravoug.h
+	<iostream>
+

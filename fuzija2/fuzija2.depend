@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1580261042 source:c:\users\administrator\desktop\programiranjeef e\fuzija2\main.cpp
+	<iostream>
+	"FUZIJA.hpp"
+	"PRAVOUGAONIK.hpp"
+	"TACKA.hpp"
+
+1580261153 c:\users\administrator\desktop\programiranjeef e\fuzija2\fuzija.hpp
+
+1580261153 c:\users\administrator\desktop\programiranjeef e\fuzija2\pravougaonik.hpp
+
+1580261153 c:\users\administrator\desktop\programiranjeef e\fuzija2\tacka.hpp
+	<cmath>
+
